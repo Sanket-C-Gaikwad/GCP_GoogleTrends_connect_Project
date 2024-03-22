@@ -1,4 +1,4 @@
->> Integration of Google Trends with Google Cloud Platform
+**# Integration of Google Trends with Google Cloud Platform**
 
 > The whole process starts from the GitHub repository, it contains the latest updated code. Google Source Repositories is used to make a real-time connection between GitHub, any changes made in Git are reflected as an update. While deploying the function the source code is redirected to the Google Source Repository.
 
